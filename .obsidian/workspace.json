@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "e9eb9ffc155906f9",
+        "id": "8a5a8caadb72e1a1",
         "type": "tabs",
         "children": [
           {
-            "id": "e0f70dc78812b5e5",
+            "id": "cce6d9947a87ce00",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "计算机网络/计算机网络自定向下/3.传输层/3.6 拥塞控制.md",
+                "file": "Linux系统编程/疑问汇总/ET模式需要设置的套接字.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "3.6 拥塞控制"
+              "title": "ET模式需要设置的套接字"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "C++基础核心内容/C++基础知识.md",
+                "file": "项目/协程库/模块详解/Scheduler详解.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "C++基础知识 的反向链接列表"
+              "title": "Scheduler详解 的反向链接列表"
             }
           },
           {
@@ -171,51 +171,51 @@
   },
   "active": "3ff94196206b6162",
   "lastOpenFiles": [
-    "图片/Pasted image 20250623152301.png",
-    "图片/Pasted image 20250623151605.png",
-    "图片/Pasted image 20250623151535.png",
-    "图片/Pasted image 20250623150735.png",
-    "图片/Pasted image 20250623144139.png",
-    "图片/Pasted image 20250623143931.png",
-    "图片/Pasted image 20250614111721.png",
-    "图片/Pasted image 20250614111604.png",
-    "图片/Pasted image 20250614111445.png",
-    "图片/Pasted image 20250614110108.png",
-    "图片/Pasted image 20250612115801.png",
-    "计算机网络/计算机网络自定向下/3.传输层/3.4 可靠传输原理.md",
-    "计算机网络/计算机网络自定向下/3.传输层/3.6 拥塞控制.md",
-    "计算机网络/Computer-Network-lab/TCP实验.md",
-    "计算机网络/Computer-Network-lab/DNS实验.md",
-    "计算机网络/Computer-Network-lab/HTTP实验.md",
-    "计算机网络/Computer-Networking-A-Top-Down-Approach-NOTES-master/WiresharkLab/Wireshark实验-TCP/Wireshark实验-TCP.md",
-    "计算机网络/Computer-Networking-A-Top-Down-Approach-NOTES-master/WiresharkLab/Wireshark实验-TCP/计算机网络实验-TCP.pdf",
-    "计算机网络/Computer-Networking-A-Top-Down-Approach-NOTES-master/WiresharkLab/Wireshark实验-UDP/UDP(Simplied_Chinese).pdf",
-    "计算机网络/计算机网络自定向下/PDU与SDU.md",
-    "计算机网络/计算机网络自定向下/3.传输层/3.5 面向连接的传输： TCP.md",
-    "计算机网络/计算机网络自定向下/3.传输层/3.3 无连接传输UDP.md",
-    "计算机网络/计算机网络自定向下/3.传输层/3.2 多路复用和解复用.md",
-    "计算机网络/Computer-Networking-A-Top-Down-Approach-NOTES-master/WiresharkLab/Wireshark实验-TCP/Wireshark_TCP_v7.0_Simplified_Chinese.pdf",
-    "计算机网络/计算机网络自定向下/3.传输层/3.1 概述和传输层.md",
-    "计算机网络/计算机网络自定向下/3.传输层",
-    "计算机网络/计算机网络自定向下/2.应用层/2.5 DNS.md",
-    "计算机网络/计算机网络自定向下/2.应用层/2.4 Email.md",
-    "计算机网络/Computer-Networking-A-Top-Down-Approach-NOTES-master/SocketProgrammingAssignment/作业3-邮件客户端/作业3-邮件客户端-解答.md",
-    "计算机网络/Computer-Networking-A-Top-Down-Approach-NOTES-master/WiresharkLab/Wireshark实验-TCP/Wireshark_TCP_v6.0.pdf",
-    "计算机网络/Computer-Networking-A-Top-Down-Approach-NOTES-master/WiresharkLab/Wireshark实验-TCP/Wireshark_TCP_v7.0.pdf",
-    "C++基础核心内容/C++中级知识.md",
+    "Linux系统编程/疑问汇总",
+    "项目/协程库/模块详解/Hook详解.md",
+    "项目/协程库/va_list使用.md",
+    "项目/协程库/模块详解/Timer详解.md",
+    "项目/协程库/模块详解/Timer类成员m_tickle详解.md",
+    "项目/协程库/模块详解/IOScheduler详解.md",
+    "项目/协程库/模块详解/Scheduler详解.md",
+    "项目/协程库/ucontext学习.md",
+    "项目/协程库/enable_shared_from_this.md",
+    "项目/协程库/CPU上下文切换.md",
+    "Linux系统编程/61/61.9 套接字选项.md",
+    "Linux系统编程/61/61.5 获取套接字地址.md",
+    "Linux系统编程/61/61.4 sendfile()系统调用.md",
+    "Pasted image 20250707212804.png",
+    "Linux系统编程/61/61.2 shutdown()系统调用.md",
+    "Linux系统编程/61/61.1 流式套接字上的部分读和部分写.md",
+    "Linux系统编程/61",
+    "Linux系统编程/63/2 IO多路复用.md",
+    "Linux系统编程/疑问汇总/ET模式需要设置的套接字.md",
+    "Linux系统编程/13 文件IO缓冲.md",
+    "Linux系统编程/63/未命名.md",
+    "Linux系统编程/63/63.3.3 深入理解epoll语义.md",
+    "Linux系统编程/63",
+    "C++并发编程/4.unique_lock,读写锁以及递归锁.md",
+    "C++并发编程/5.线程安全的单例模式.md",
+    "C++并发编程/6. 利用条件变量构造线程安全队列.md",
     "C++基础核心内容/C++基础知识.md",
-    "interview/interview-master/面试/c++并发/多线程/半同步半异步网络并发模型.md",
-    "interview/interview-master/面试/c++并发/多线程/解析无锁队列的原理与实现.md",
-    "interview/interview-master/面试/c++并发/多线程/原子操作与无锁编程.md",
-    "interview/interview-master/面试/c++并发/多线程/无锁队列.md",
-    "计算机网络/计算机网络自定向下/2.应用层/2.1 应用层.md",
-    "interview/interview-master/面试/c++并发/C++ 并发编程指南/Cplusplus-Concurrency-In-Practice/zh/chapter8-Memory-Model/8.2 C++11 memory-model-explained.md",
-    "计算机网络/计算机网络自定向下/2.应用层",
-    "interview/interview-master/面试/c++并发/C++ 并发编程指南/Cplusplus-Concurrency-In-Practice/zh/chapter8-Memory-Model/8.3 Synchronization-and-ordering.md",
-    "interview/interview-master/面试/c++并发/C++ 并发编程指南/Cplusplus-Concurrency-In-Practice/zh/chapter8-Memory-Model/README.md",
-    "interview/interview-master/面试/c++并发/C++ 并发编程指南/Cplusplus-Concurrency-In-Practice/zh/chapter8-Memory-Model/Memory-ordering-in-C++11.md",
-    "interview/interview-master/面试/项目/RPC框架/序列化/Json/UTF-8和unicode/04_ans/test.cpp",
-    "interview/interview-master/面试/项目/RPC框架/序列化/Json/UTF-8和unicode/04_ans/mujson.h",
-    "interview/interview-master/面试/项目/RPC框架/序列化/Json/UTF-8和unicode/04/images"
+    "Muduo网络库剖析/Poller模块概述.md",
+    "Muduo网络库剖析/Thread模块剖析.md",
+    "Cmake/Morden CMake/测试",
+    "Cmake/总结",
+    "Cmake/Morden CMake",
+    "项目/协程库/模块详解",
+    "Pasted image 20250628154512.png",
+    "Pasted image 20250628154429.png",
+    "Pasted image 20250628154335.png",
+    "Pasted image 20250628154223.png",
+    "Pasted image 20250628154140.png",
+    "计算机网络/Computer-Networking-A-Top-Down-Approach-NOTES-master/WiresharkLab/Wireshark实验-ICMP/计算机网络实验-ICMP.pdf",
+    "项目/协程库",
+    "未命名",
+    "项目",
+    "Pasted image 20250627201059.png",
+    "Pasted image 20250627155806.png",
+    "interview/interview-master/面试/c++并发/协程/ucontext簇函数学习_实际使用.png",
+    "图片/Pasted image 20250623152301.png"
   ]
 }
